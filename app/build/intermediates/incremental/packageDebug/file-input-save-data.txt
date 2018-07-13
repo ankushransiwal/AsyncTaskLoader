@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Jul 13 19:38:18 IST 2018
+#Fri Jul 13 19:42:08 IST 2018
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=E\:\\Android Studio Projects\\Lynda_Androd_Apps_RESTful_update\\Ch02\\02_03\\AsyncTaskLoader\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml

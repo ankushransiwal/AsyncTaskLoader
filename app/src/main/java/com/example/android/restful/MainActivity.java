@@ -66,5 +66,11 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
             }
             return "From the loader";
         }
+
+        @Override
+        public void deliverResult(String data) {
+            data += ", delivered";
+            super.deliverResult(data);
+        }
     }
 }
