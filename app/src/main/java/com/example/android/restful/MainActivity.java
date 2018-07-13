@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
 
     public void runClickHandler(View view) {
         //This will initialise the loader manager class and move the flow to callback function onCreateloader
-        getSupportLoaderManager().initLoader(0,null,this).forceLoad();
+        getSupportLoaderManager().restartLoader(0,null,this).forceLoad();
 
     }
 
