@@ -1,0 +1,4 @@
+#Fri Jul 13 19:38:18 IST 2018
+base.0=E\:\\Android Studio Projects\\Lynda_Androd_Apps_RESTful_update\\Ch02\\02_03\\AsyncTaskLoader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Android Studio Projects\\Lynda_Androd_Apps_RESTful_update\\Ch02\\02_03\\AsyncTaskLoader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

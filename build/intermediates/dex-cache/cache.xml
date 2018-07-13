@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_5ae69d6327c74c1e3f979f76c09c288fad1aadec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_817b9df54f0aedac86e1ae6f1d4809378e03ded9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_3d37bf9a229693c1ee463478d7a7eddb3e40b8cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ankus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_bc8c9be250954db011ea40a3811f5fcb54b981c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_466a5022e4c963e6bb41b2a4663d6178f554ca02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_a1bbc1917ee118c40902f27fdc23329100ad3905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_6930f2922b1e4a459ed7b406cffdfd330aaea043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_2e7c9bbbe96dd0164636e40cad53c0d48ca6e374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_51abf1e3baa409da4c89d88eec724874e4264b3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_03\AsyncTaskLoader\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_49337ff4ba930b9e51f067277725cadb5b786bbb.jar" />
+    </item>
+
+</items>
